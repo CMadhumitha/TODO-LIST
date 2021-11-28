@@ -1,8 +1,8 @@
 # TODO-LIST
 
-This is a simple TODO-LIST .
+This is a simple (frontend) TODO-LIST .
 
-This ToDo-List is a task keeper where the user would be able to enter the tasks that they need to do. Once the tasks is done it can be removed from the list.
+This ToDo-List is a task keeper where the user would be able to enter the tasks that they need to do which is stored in local storage of chrome.
 
 ---
 
