@@ -1,13 +1,13 @@
 # TODO-LIST
 
-This is a simple (frontend) TODO-LIST .
+This is a simple (FRONTEND) TODO-LIST .
 
 This ToDo-List is a task keeper where the user would be able to enter the tasks that they need to do which is stored in local storage of chrome.
 
 ---
 
 ### To view my ToDo-List
-<a href="https://cmadhumitha.github.io/TODO-LIST/" target="_blank"><h3>📌Click here📎</h3></a>
+[click here](https://cmadhumitha.github.io/TODO-LIST/)
 
 ---
 
